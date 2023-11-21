@@ -1,0 +1,116 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WD Reflexive link
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : WD Reflexive link
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WD Reflexive link
+    internal_properties : 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
+    configuration_id : 2777441477364499257
+    type : 1
+    generation_name : WD Reflexive link.exe
+    version :
+     major_version : 21
+     internal_generation_version : 3
+     autoincrement_version : false
+    icon_filename : .\description.ico
+    language : 2
+ elements :
+  identifier : 0x4ac600810015e3a0
+  elements :
+   -
+     name : WIN_Example
+     identifier : 0x3e3502b600546440
+     internal_properties : CAAAAAgAAACwjug086gAGyfrgEp1nwsEbEO7I6csIUfsvGR1NfYmMooE47FVowfBhLslkxPNtSuVnQ==
+     physical_name : .\WIN_Example.wdw
+     type : 2
+   -
+     name : TEST_COL_GlobalProcedures
+     identifier : 0x43faf6880038f882
+     internal_properties : CAAAAAgAAAD07YeW90XszEh8A1WH7XQrj6/CAxGKD2t8qCf4Hi2vI17PBZ1fTq1wUwvIaY15gw==
+     physical_name : .\TEST_COL_GlobalProcedures.wxt
+     type : 17
+   -
+     name : COL_GlobalProcedures
+     identifier : 0x43faf6790036bfb7
+     internal_properties : CAAAAAgAAABbNwMHpOHJ0pwJfVSqi+1fr+j6unQ3mjaOv7ZAXqXxH91zRvlK/ts/vWReWtoW4tY+xg==
+     physical_name : .\COL_GlobalProcedures.wdg
+     type : 7
+   -
+     name : TEST_Example
+     identifier : 0x43faf60b00341249
+     internal_properties : CAAAAAgAAABiex28DSzklv3uzgL5sFbt94xX9x7Cf7/YpJoJwvhoiP11gw4biBYluKFek/fvFQ==
+     physical_name : .\TEST_Example.wxt
+     type : 17
+  other_elements :
+   -
+     physical_name : .\Description.rtf
+   -
+     physical_name : .\Description.gif
+  analysis : .\WD Reflexive link.ana\WD Reflexive link.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ data_directory : <ExeDirOrDataDirCommon>
+ common_generation_directory : true
+ languages :
+  - en-GB
+ wd_style_sheet : ".\\WD Reflexive link.sty\r\n.\\reflex.sty"
+ wb_style_sheet : .\WD Reflexive lnk.wws
+ code_elements :
+  internal_properties : CAAAAAgAAAD0w0RDIZuxtK5gkoSuL5FalqeLUEFbE9DmBRv09zO6z3IRpjrlduehhC3uzN5TpXRlxZNr4HAgz4LwsSqFt4FCiHePudE2mzCrxHBO6ineQDJq1y4UJu3yb/Pzzjf2u1lsgss00y8d7irmbaTLO/8ykYuDi4cDOch46bWqOEkQIUnKh2/L
+  type_code : 0
+  p_codes :
+   -
+     code : |1-
+      
+     type : 196608
+   -
+     code : |1-
+      
+     type : 196610
+   -
+     code : |1-
+      
+     type : 196619
+   -
+     code : |1-
+      
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WD Reflexive link
+     identifier : 0x4ac60081001de41d
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+  strings :
+   -
+     text :
+      en-GB : Demo
+     index : 0
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
